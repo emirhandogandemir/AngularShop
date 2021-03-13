@@ -1,30 +1,17 @@
 ##Frontend Yetkinliklerimi Geliştirmek ve Angular altyapısını anlamak üzerine yapılmış projem
 
 
-# Shop
+Genel Görünüş Sayfası :
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+![AnaMüşteri](https://user-images.githubusercontent.com/74687192/111038742-a02a5d80-843b-11eb-966c-990998f593b0.PNG)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Routing Mimarisinin Kullanım Örneği :
 
-## Code scaffolding
+![Routing](https://user-images.githubusercontent.com/74687192/111038738-9d2f6d00-843b-11eb-98a8-2a01fdcf1d35.PNG)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Ürün Ekleme Yetkinliğine Fake Data ile Authorization Kullanımı için Login Sayfası : 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![Login](https://user-images.githubusercontent.com/74687192/111038746-a7516b80-843b-11eb-808a-be0a1841cb10.PNG)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
